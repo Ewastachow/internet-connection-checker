@@ -1,0 +1,5 @@
+c:\users\yevvy\documents\visual studio 2017\Projects\InternetConnectionChecker\InternetConnectionChecker\bin\Debug\InternetConnectionChecker.exe.config
+c:\users\yevvy\documents\visual studio 2017\Projects\InternetConnectionChecker\InternetConnectionChecker\bin\Debug\InternetConnectionChecker.exe
+c:\users\yevvy\documents\visual studio 2017\Projects\InternetConnectionChecker\InternetConnectionChecker\bin\Debug\InternetConnectionChecker.pdb
+c:\users\yevvy\documents\visual studio 2017\Projects\InternetConnectionChecker\InternetConnectionChecker\obj\Debug\InternetConnectionChecker.exe
+c:\users\yevvy\documents\visual studio 2017\Projects\InternetConnectionChecker\InternetConnectionChecker\obj\Debug\InternetConnectionChecker.pdb
